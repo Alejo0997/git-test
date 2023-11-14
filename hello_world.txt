@@ -1,0 +1,1 @@
+This is me testing how to update the readme file in git using linux, some crazy shit xD
